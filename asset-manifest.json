@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/github.io/ning-profolio/static/css/main.afdc4597.css",
+    "main.js": "/github.io/ning-profolio/static/js/main.3984ec2a.js",
+    "static/media/medscan.png": "/github.io/ning-profolio/static/media/medscan.a2df0a3dc0a6f4167ea2.png",
+    "static/media/head.png": "/github.io/ning-profolio/static/media/head.ff680e19f030293e119e.png",
+    "static/media/tensorflow.png": "/github.io/ning-profolio/static/media/tensorflow.294da4193d65d45de601.png",
+    "static/media/stockprice.jpg": "/github.io/ning-profolio/static/media/stockprice.9c41c400f91e9b059301.jpg",
+    "static/media/scikit.png": "/github.io/ning-profolio/static/media/scikit.5192df550f56dd1a80c8.png",
+    "static/media/postgresql.png": "/github.io/ning-profolio/static/media/postgresql.c56c146c8e3ec2402c98.png",
+    "static/media/protein.jpeg": "/github.io/ning-profolio/static/media/protein.24d8c99feaf7bcca047d.jpeg",
+    "static/media/react.png": "/github.io/ning-profolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/opencv2.png": "/github.io/ning-profolio/static/media/opencv2.ba356733372f05333816.png",
+    "static/media/mylogo.png": "/github.io/ning-profolio/static/media/mylogo.c7b9fadb54f291f20b00.png",
+    "static/media/python.png": "/github.io/ning-profolio/static/media/python.f1a07429fcf04073a41e.png",
+    "static/media/pytorch.png": "/github.io/ning-profolio/static/media/pytorch.a0236178d000bd5e1bb1.png",
+    "index.html": "/github.io/ning-profolio/index.html",
+    "main.afdc4597.css.map": "/github.io/ning-profolio/static/css/main.afdc4597.css.map",
+    "main.3984ec2a.js.map": "/github.io/ning-profolio/static/js/main.3984ec2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afdc4597.css",
+    "static/js/main.3984ec2a.js"
+  ]
+}
